@@ -1,5 +1,10 @@
 # Sonority
 
+## TODO
+
+-  Add text to speech for segments when readjusting.
+-  Fix values for sonority heirarchy according to wiki page
+
 ## Acknowledgments
 
 This project is something I created for personal use.
