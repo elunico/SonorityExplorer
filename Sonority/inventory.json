@@ -1,0 +1,158 @@
+{
+  "AA": {
+    "ipa": "\u0251",
+    "sonority": 1.0
+  },
+  "AE": {
+    "ipa": "\u00e6",
+    "sonority": 1.0
+  },
+  "AH": {
+    "ipa": "\u028c",
+    "sonority": 1.0
+  },
+  "AO": {
+    "ipa": "\u0254",
+    "sonority": 1.0
+  },
+  "AW": {
+    "ipa": "a\u028a",
+    "sonority": 1.0
+  },
+  "AY": {
+    "ipa": "a\u026a",
+    "sonority": 1.0
+  },
+  "B": {
+    "ipa": "b",
+    "sonority": 9.0
+  },
+  "CH": {
+    "ipa": "t\u0283",
+    "sonority": 8.0
+  },
+  "D": {
+    "ipa": "d",
+    "sonority": 9.0
+  },
+  "DH": {
+    "ipa": "\u00f0",
+    "sonority": 5.0
+  },
+  "EH": {
+    "ipa": "\u025b",
+    "sonority": 1.0
+  },
+  "ER": {
+    "ipa": "\u0259r",
+    "sonority": 2.0
+  },
+  "EY": {
+    "ipa": "e\u026a",
+    "sonority": 1.0
+  },
+  "F": {
+    "ipa": "f",
+    "sonority": 6.0
+  },
+  "G": {
+    "ipa": "g",
+    "sonority": 9.0
+  },
+  "HH": {
+    "ipa": "h",
+    "sonority": 6.0
+  },
+  "IH": {
+    "ipa": "\u026a",
+    "sonority": 1.0
+  },
+  "IY": {
+    "ipa": "i",
+    "sonority": 1.0
+  },
+  "JH": {
+    "ipa": "d\u0292",
+    "sonority": 7.0
+  },
+  "K": {
+    "ipa": "k",
+    "sonority": 10.0
+  },
+  "L": {
+    "ipa": "l",
+    "sonority": 3.0
+  },
+  "M": {
+    "ipa": "m",
+    "sonority": 4.0
+  },
+  "N": {
+    "ipa": "n",
+    "sonority": 4.0
+  },
+  "NG": {
+    "ipa": "\u014b",
+    "sonority": 4.0
+  },
+  "OW": {
+    "ipa": "o\u028a",
+    "sonority": 1.0
+  },
+  "OY": {
+    "ipa": "\u0254\u026a",
+    "sonority": 1.0
+  },
+  "P": {
+    "ipa": "p",
+    "sonority": 10.0
+  },
+  "R": {
+    "ipa": "r",
+    "sonority": 2.0
+  },
+  "S": {
+    "ipa": "s",
+    "sonority": 6.0
+  },
+  "SH": {
+    "ipa": "\u0283",
+    "sonority": 6.0
+  },
+  "T": {
+    "ipa": "t",
+    "sonority": 10.0
+  },
+  "TH": {
+    "ipa": "\u03b8",
+    "sonority": 6.0
+  },
+  "UH": {
+    "ipa": "\u028a",
+    "sonority": 1.0
+  },
+  "UW": {
+    "ipa": "u",
+    "sonority": 1.0
+  },
+  "V": {
+    "ipa": "v",
+    "sonority": 5.0
+  },
+  "W": {
+    "ipa": "w",
+    "sonority": 2.0
+  },
+  "Y": {
+    "ipa": "j",
+    "sonority": 2.0
+  },
+  "Z": {
+    "ipa": "z",
+    "sonority": 5.0
+  },
+  "ZH": {
+    "ipa": "\u0292",
+    "sonority": 5.0
+  }
+}
