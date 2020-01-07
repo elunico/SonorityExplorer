@@ -3,7 +3,7 @@
 ## TODO
 
 -  Add text to speech for segments when readjusting.
--  Fix values for sonority heirarchy according to wiki page
+  -  Maybe I could record all 33 segments personally load them with p5 and then play them as needed individually
 
 ## Acknowledgments
 
